@@ -1,3 +1,4 @@
+[jmc 20210915] not deploying this. guide for porting to linux mint.
 base image [php7.1/fpm-alpine](https://code.aliyun.com/knative-samples/fpm-alpine)
 
 wordpress 官方镜像 Dockerfile : https://github.com/kubeway/wordpress 
